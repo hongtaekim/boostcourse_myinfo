@@ -1,0 +1,103 @@
+html, body{
+    background-color:#A6C6B9;
+  
+}
+
+.menu_list{
+    list-style-type: none;
+    border: 2px solid slategray;
+    background-color: white;
+    padding: 1%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: right;
+}
+.menu_list > li{
+    margin-left: 8px;
+    background-color: #8FBBC6;
+    width: 10%;
+    padding: 15px;
+
+    text-align: center;
+    color: purple;
+
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    
+}
+
+a{
+	text-decoration: none;
+}
+#myself{
+		text-decoration: none;
+
+}
+
+.main{
+    background-color: white;
+    border: 2px solid slategray;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+    overflow: auto;
+}
+.crong_description{
+    
+}
+
+#crong{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+    border: 5px solid slategray;
+
+    margin-right: 40px;
+    margin-bottom: 50px;
+}
+
+#crong > p{
+    
+}
+#gugu{
+    clear: both;
+}
+
+.pobi_description{
+    clear: left;
+    margin-top: 40px;
+}
+
+#pobi{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+    border: 5px solid slategray;
+
+
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+
+.location{
+    width: 35%;
+    margin-top: 10px;
+}
+
+
+.footer{
+    border: 2px solid slategray;
+
+    text-align: center;
+
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 100px;
+}
+
+
